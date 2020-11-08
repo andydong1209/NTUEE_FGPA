@@ -1,2 +1,3 @@
 # NTUEE_FGPA
-NTUEE 2020 Summer FPGA
+NTUEE_2020_Summer
+FPGA and Derivatives Pricing
